@@ -1,6 +1,7 @@
 # Credit Card Form 
-###created using React.js
+### created using React.js, HTML, CSS, JS
 
+![cc-form](https://user-images.githubusercontent.com/58664635/88908731-8e080000-d25a-11ea-931e-e1498c8a14d8.gif)
 
 
 
